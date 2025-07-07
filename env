@@ -1,0 +1,1 @@
+The `env` directory is a virtual environment and does not contain any files that need to be generated. It is typically created using a command like `python -m venv env` and is intentionally left blank.
