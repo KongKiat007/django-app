@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tvssale Project
 
 This is a Django project named **tvssale**. It consists of two main applications: **webpage** and **sales**. The project is structured to facilitate the development of a web application focused on television sales.
@@ -67,3 +68,6 @@ python manage.py runserver
 ```
 
 Visit `http://127.0.0.1:8000/` in your web browser to view the homepage.
+=======
+# django-app
+>>>>>>> 58b4d1dcbdecf2286372fa6b493f6cc7ebe5c09f
